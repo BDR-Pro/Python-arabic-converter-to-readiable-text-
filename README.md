@@ -2,7 +2,7 @@
 
 
 install in cmd write 
-```pip install Arabic
+```py -m pip install ./downloads/arabic-1.0.0.tar.gz
 import Arabic
 a=arabic()
 a=a.Arabic("Write your arabic text here")
