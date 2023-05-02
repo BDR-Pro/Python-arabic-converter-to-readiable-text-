@@ -26,3 +26,6 @@ or
 ``` 
 print(arabic().arabic("السلام عليكم"))
 ```
+
+
+**[DOWNLOAD](https://drive.google.com/file/d/1oUNFwA8g-HYa5hvR6f_SGKK7qgNfAYYQ/view?usp=share_link)**
