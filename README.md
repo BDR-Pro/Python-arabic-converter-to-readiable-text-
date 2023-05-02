@@ -8,7 +8,7 @@ python -m pip install ./downloads/arabic-1.0.0.tar.gz
 ```
 
 ```
-import Arabic
+import arabic_bdr_pro
 a=arabic()
 a=a.Arabic("Write your arabic text here")
 print(a)
@@ -17,7 +17,7 @@ print(a)
 **A quick way to use it**
 
 ```
-import Arabic
+import arabic_bdr_pro
 
 arabic().print("السلام عليكم")
 ```
